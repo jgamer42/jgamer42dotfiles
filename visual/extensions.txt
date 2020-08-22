@@ -1,0 +1,14 @@
+CoenraadS.bracket-pair-colorizer-2
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+Gruntfuggly.todo-tree
+hediet.vscode-drawio
+ms-azuretools.vscode-docker
+ms-python.python
+ms-vscode.cpptools
+octref.vetur
+PKief.material-icon-theme
+pnp.polacode
+ritwickdey.LiveServer
+tomoki1207.pdf
+WakaTime.vscode-wakatime

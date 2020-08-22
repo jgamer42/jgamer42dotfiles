@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "window.zoomLevel": 0
+}

@@ -13,5 +13,5 @@ sudo apt-get install code
 
 cat extensions.txt | while read extension
 do 
-    code --intall-extension $extension
+   sudo  code --intall-extension $extension
 done
